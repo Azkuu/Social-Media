@@ -1,34 +1,42 @@
 {
   "project_info": {
-    "project_number": "233517933100",
-    "firebase_url": "https://social-6cf59.firebaseio.com",
-    "project_id": "social-6cf59",
-    "storage_bucket": "social-6cf59.appspot.com"
+    "project_number": "330948170325",
+    "firebase_url": "https://social-f18e2.firebaseio.com",
+    "project_id": "social-f18e2",
+    "storage_bucket": "social-f18e2.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:233517933100:android:d01950b0dc2d0b9fd5e789",
+        "mobilesdk_app_id": "1:330948170325:android:749f308775f11940317adc",
         "android_client_info": {
           "package_name": "com.example.social"
         }
       },
       "oauth_client": [
         {
-          "client_id": "233517933100-6l01odhkt04t90g51a2bpmdc99ests93.apps.googleusercontent.com",
+          "client_id": "330948170325-q1osutpuij1frulqjlpaq8dg3trjvda9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.social",
+            "certificate_hash": "89944d06f38e5a7e39a51d50775f3c4f7f695b90"
+          }
+        },
+        {
+          "client_id": "330948170325-1f4uslvbk6fqconltnsik4sjjkv03lh2.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCWXQC3agYqUr2vPumYGzybu6JhNBCE04Y"
+          "current_key": "AIzaSyCXx44HTt8qEiyCYvkivPcgTd4WHriBTiQ"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "233517933100-6l01odhkt04t90g51a2bpmdc99ests93.apps.googleusercontent.com",
+              "client_id": "330948170325-1f4uslvbk6fqconltnsik4sjjkv03lh2.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
